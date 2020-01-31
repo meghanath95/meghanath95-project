@@ -1,3 +1,3 @@
-# Repository for class project
+#Advanced Internet Programming Project
 
-This readme is a placeholder that should be replaced
+Meghanath Reddy.B
