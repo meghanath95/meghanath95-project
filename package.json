@@ -1,0 +1,9 @@
+{
+  "name": "csc615-photos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "meghanath reddy <bhavanam123@live.missouristate.edu>",
+  "license": "UNLICENSED"
+  "type": "module",
+}
