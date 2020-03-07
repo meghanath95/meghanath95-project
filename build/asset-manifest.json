@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.058f7b5a.chunk.css",
+    "main.js": "/static/js/main.02632293.chunk.js",
+    "main.js.map": "/static/js/main.02632293.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5ee39a7f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5ee39a7f.js.map",
+    "static/js/2.8e5083c9.chunk.js": "/static/js/2.8e5083c9.chunk.js",
+    "static/js/2.8e5083c9.chunk.js.map": "/static/js/2.8e5083c9.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.7efceddf48f991533d4d5181f06a9ba1.js": "/precache-manifest.7efceddf48f991533d4d5181f06a9ba1.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.058f7b5a.chunk.css.map": "/static/css/main.058f7b5a.chunk.css.map",
+    "static/js/2.8e5083c9.chunk.js.LICENSE.txt": "/static/js/2.8e5083c9.chunk.js.LICENSE.txt",
+    "static/media/animal.jpg": "/static/media/animal.adba01c8.jpg",
+    "static/media/forest.jpg": "/static/media/forest.fe078fce.jpg",
+    "static/media/lakes.jpeg": "/static/media/lakes.331a33be.jpeg",
+    "static/media/nature.jpg": "/static/media/nature.53f3dd9b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ee39a7f.js",
+    "static/js/2.8e5083c9.chunk.js",
+    "static/css/main.058f7b5a.chunk.css",
+    "static/js/main.02632293.chunk.js"
+  ]
+}
