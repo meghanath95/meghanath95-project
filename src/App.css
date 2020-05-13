@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 8vh;
+  background: lightskyblue;
+  color:          red;                        
+  font-family:    Garamond;
+  font-size:      1em;
+}
+.nav-links {
+  width: 80%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+}
+
+body {
+background-color: aqua;
+}
+
+button{
+  margin: 10;
+  padding: 10px 20px;
+  font-size: 18px;
+  background-color: #e67e22;
+}
